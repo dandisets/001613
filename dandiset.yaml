@@ -18,29 +18,29 @@ assetsSummary:
     name: Neurodata Without Borders (NWB)
     schemaKey: StandardsType
   measurementTechnique:
-  - name: surgical technique
-    schemaKey: MeasurementTechniqueType
   - name: multi electrode extracellular electrophysiology recording technique
+    schemaKey: MeasurementTechniqueType
+  - name: surgical technique
     schemaKey: MeasurementTechniqueType
   - name: analytical technique
     schemaKey: MeasurementTechniqueType
   - name: behavioral technique
     schemaKey: MeasurementTechniqueType
-  numberOfBytes: 313038847108
-  numberOfFiles: 311
-  numberOfSubjects: 96
+  numberOfBytes: 284237140244
+  numberOfFiles: 274
+  numberOfSubjects: 86
   schemaKey: AssetsSummary
   species:
   - identifier: http://purl.obolibrary.org/obo/NCBITaxon_9606
     name: Homo sapiens - Human
     schemaKey: SpeciesType
   variableMeasured:
-  - ElectrodeGroup
   - ElectricalSeries
   - SpatialSeries
   - PupilTracking
   - EyeTracking
   - ProcessingModule
+  - ElectrodeGroup
 citation: Nentwich, Maximilian (2025) Large-scale human intracranial electrophysiology
   and eye-tracking recordings from naturalistic image and movie stimuli (Version draft)
   [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/001613/draft
