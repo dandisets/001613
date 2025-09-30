@@ -26,9 +26,9 @@ assetsSummary:
     schemaKey: MeasurementTechniqueType
   - name: behavioral technique
     schemaKey: MeasurementTechniqueType
-  numberOfBytes: 298136847936
-  numberOfFiles: 291
-  numberOfSubjects: 92
+  numberOfBytes: 304955779256
+  numberOfFiles: 300
+  numberOfSubjects: 94
   schemaKey: AssetsSummary
   species:
   - identifier: http://purl.obolibrary.org/obo/NCBITaxon_9606
