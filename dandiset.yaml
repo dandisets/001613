@@ -26,8 +26,8 @@ assetsSummary:
     schemaKey: MeasurementTechniqueType
   - name: behavioral technique
     schemaKey: MeasurementTechniqueType
-  numberOfBytes: 321922470856
-  numberOfFiles: 319
+  numberOfBytes: 322422858964
+  numberOfFiles: 320
   numberOfSubjects: 100
   schemaKey: AssetsSummary
   species:
@@ -55,13 +55,13 @@ contributor:
 dateCreated: '2025-09-24T18:19:38.434153+00:00'
 description: 'This dataset includes 50 recording sessions of intracranial EEG and
   simultaneous eyetracking from 46 individual patients. Implants consist of a total
-  of 10,790 contacts predominantly from depth electrodes, and 988 from ECoG contacts
+  of 10,769 contacts predominantly from depth electrodes, and 986 from ECoG contacts
   (grids and strips). Patients watched up to 53.6 minutes of movies (48 recordings),
   completed resting state (25 recordings) and viewed static images (31 recordings).
-  Data is provided in NWB format and includes local field potentials, electrode locations.
-  gaze and pupil size, precise timing of each frame in the movie. The data also includes
-  annotations of words and phonemes in one of the movies, as well as annotions of
-  faces in three movies. '
+  Data is provided in NWB format and includes local field potentials, electrode locations,
+  gaze and pupil size and precise timing of each frame in the movie. The data also
+  includes annotations of words and phonemes in one of the movies, as well as annotions
+  of faces in three movies. '
 ethicsApproval: []
 id: DANDI:001613/draft
 identifier: DANDI:001613
