@@ -22,24 +22,24 @@ assetsSummary:
     schemaKey: MeasurementTechniqueType
   - name: surgical technique
     schemaKey: MeasurementTechniqueType
-  - name: analytical technique
-    schemaKey: MeasurementTechniqueType
   - name: behavioral technique
     schemaKey: MeasurementTechniqueType
-  numberOfBytes: 322422858964
-  numberOfFiles: 320
-  numberOfSubjects: 100
+  - name: analytical technique
+    schemaKey: MeasurementTechniqueType
+  numberOfBytes: 180696641543
+  numberOfFiles: 196
+  numberOfSubjects: 68
   schemaKey: AssetsSummary
   species:
   - identifier: http://purl.obolibrary.org/obo/NCBITaxon_9606
     name: Homo sapiens - Human
     schemaKey: SpeciesType
   variableMeasured:
-  - ElectricalSeries
+  - ProcessingModule
   - SpatialSeries
   - PupilTracking
   - EyeTracking
-  - ProcessingModule
+  - ElectricalSeries
   - ElectrodeGroup
 citation: Nentwich, Maximilian (2025) Large-scale human intracranial electrophysiology
   and eye-tracking recordings from naturalistic image and movie stimuli (Version draft)
