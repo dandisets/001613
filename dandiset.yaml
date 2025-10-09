@@ -8,39 +8,14 @@ access:
 - schemaKey: AccessRequirements
   status: dandi:OpenAccess
 assetsSummary:
-  approach:
-  - name: electrophysiological approach
-    schemaKey: ApproachType
-  - name: behavioral approach
-    schemaKey: ApproachType
-  dataStandard:
-  - identifier: RRID:SCR_015242
-    name: Neurodata Without Borders (NWB)
-    schemaKey: StandardsType
-  measurementTechnique:
-  - name: multi electrode extracellular electrophysiology recording technique
-    schemaKey: MeasurementTechniqueType
-  - name: surgical technique
-    schemaKey: MeasurementTechniqueType
-  - name: behavioral technique
-    schemaKey: MeasurementTechniqueType
-  - name: analytical technique
-    schemaKey: MeasurementTechniqueType
-  numberOfBytes: 180696641543
-  numberOfFiles: 196
-  numberOfSubjects: 68
+  approach: []
+  dataStandard: []
+  measurementTechnique: []
+  numberOfBytes: 5873673906
+  numberOfFiles: 9
   schemaKey: AssetsSummary
-  species:
-  - identifier: http://purl.obolibrary.org/obo/NCBITaxon_9606
-    name: Homo sapiens - Human
-    schemaKey: SpeciesType
-  variableMeasured:
-  - ProcessingModule
-  - SpatialSeries
-  - PupilTracking
-  - EyeTracking
-  - ElectricalSeries
-  - ElectrodeGroup
+  species: []
+  variableMeasured: []
 citation: Nentwich, Maximilian (2025) Large-scale human intracranial electrophysiology
   and eye-tracking recordings from naturalistic image and movie stimuli (Version draft)
   [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/001613/draft
